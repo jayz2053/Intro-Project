@@ -1,0 +1,23 @@
+{
+  "name": "intro-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayz2053/Intro-Project.git"
+  },
+  "author": "jayz2053",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayz2053/Intro-Project/issues"
+  },
+  "homepage": "https://github.com/jayz2053/Intro-Project#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
